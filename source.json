@@ -1,18 +1,18 @@
 {
-    "name":"Psha VPM Repository",
-    "id":"com.psha.vpm-repository",
-    "url":"https://psha1220.github.io/modular-emote/index.json",
-    "author":{
-        "email":"Polysha1220@gmail.com",
-        "name":"Psha",
-        "url":"https://x.com/P_ConnectStore"
-    },
-    "description":"VPM repository for modular-emote.",
-    "infoLink":{
-        "url":"https://github.com/PSha1220/modular-emote",
-        "text":"View on GitHub"
-    },
-    "githubRepos": [
+  "name": "Psha VPM Repository",
+  "id": "com.psha.vpm-repository",
+  "url": "https://psha1220.github.io/modular-emote/index.json",
+  "author": {
+    "email": "Polysha1220@gmail.com",
+    "name": "Psha",
+    "url": "https://x.com/P_ConnectStore"
+  },
+  "description": "VPM repository for Psha tools.",
+  "infoLink": {
+    "url": "https://github.com/PSha1220/modular-emote",
+    "text": "View on GitHub"
+  },
+  "githubRepos": [
     "PSha1220/VRCEmoteInstaller"
   ],
   "packages": []
